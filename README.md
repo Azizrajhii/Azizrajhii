@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azizrajhii&label=Profile%20views&color=0e75b6&style=flat" alt="azizrajhii" /> </p>
+<p align="right"> <img src="[https://komarev.com/ghpvc/?username=azizrajhii&label=Profile%20views&color=0e75b6&style=flat](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="azizrajhii" /> </p>
 
 - 🔭 I’m currently working on **mern stack project**
 
